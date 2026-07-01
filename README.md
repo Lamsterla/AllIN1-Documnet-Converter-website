@@ -92,6 +92,6 @@ This project is for personal/portfolio/educational use.
 
 ## 🙌 Credits
 
-- Development: *Your Name*
+- Development: Arun Sah
 - Front End: PHP, HTML, CSS, JavaScript
 - Conversion Engine: Custom Python API
